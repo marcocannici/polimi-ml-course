@@ -8,13 +8,13 @@ Additional materials and laboratory classes' recordings can be found at the [cou
 
 - :test_tube: Lab 01
   - [![lab01.01](https://img.shields.io/static/v1?&label=lab01.01&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/01.01.live-JupyterPython.ipynb)
-    [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/01.01.solution-JupyterPython.ipynb)
+    [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/01.01.solutions-JupyterPython.ipynb)
     &nbsp;&nbsp; Jupyter and Python
-  - [![lab01.02](https://img.shields.io/static/v1?&label=lab01.02&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/lab01.02.live-IntroductionNumpy.ipynb)
-    [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/lab01.02.solutions-IntroductionNumpy.ipynb)
+  - [![lab01.02](https://img.shields.io/static/v1?&label=lab01.02&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/01.02.live-IntroductionNumpy.ipynb)
+    [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/01.02.solutions-IntroductionNumpy.ipynb)
     &nbsp;&nbsp; Introduction to Numpy
-  - [![lab01.03](https://img.shields.io/static/v1?&label=lab01.03&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/lab01.03.live-BiasVarianceTradeoff.ipynb)
-    [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/lab01.03.complete-BiasVarianceTradeoff.ipynb)
+  - [![lab01.03](https://img.shields.io/static/v1?&label=lab01.03&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/01.03.live-BiasVarianceTradeoff.ipynb)
+    [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/01.03.solutions-BiasVarianceTradeoff.ipynb)
     &nbsp;&nbsp; Bias-Variance Tradeoff
 - :test_tube: Lab 02
   - [![lab02.01](https://img.shields.io/static/v1?&label=lab02.01&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab02/02.01.live-StatisticalLearningLinearRegression)
