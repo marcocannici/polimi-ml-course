@@ -1,8 +1,8 @@
 # Machine Learning - BioInfo PoliMI Course (054216)
 
-Notebooks used during laboratory classes of the Machine Learning (054216) course, part of the <i>Bioinformatics for Computational Genomics</i> MSc degree at Politecnico di Milano, Italy.
+Notebooks used during laboratory lectures of the Machine Learning (054216) course, part of the <i>Bioinformatics for Computational Genomics</i> MSc degree at Politecnico di Milano, Italy.
 
-Additional materials and laboratory classes' recordings can be found at the [course website](http://chrome.ws.dei.polimi.it/index.php?title=Machine_Learning_Bio).
+Additional materials and laboratory lectures' recordings can be found at the [course website](http://chrome.ws.dei.polimi.it/index.php?title=Machine_Learning_Bio).
 
 [solutions-shield]: https://img.shields.io/static/v1?&label=solutions&message=Open%20in%20Colab&color=critical&style=plastic&logo=googlecolab
 
@@ -17,16 +17,16 @@ Additional materials and laboratory classes' recordings can be found at the [cou
     [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab01/01.03.solutions-BiasVarianceTradeoff.ipynb)
     &nbsp;&nbsp; Bias-Variance Tradeoff
 - :test_tube: Lab 02
-  - [![lab02.01](https://img.shields.io/static/v1?&label=lab02.01&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab02/02.01.live-StatisticalLearningLinearRegression)
-    [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab02/02.01.solutions-StatisticalLearningLinearRegression)
+  - [![lab02.01](https://img.shields.io/static/v1?&label=lab02.01&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab02/02.01.live-StatisticalLearningLinearRegression.ipynb)
+    [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab02/02.01.solutions-StatisticalLearningLinearRegression.ipynb)
     &nbsp;&nbsp; Statistical Learning & Linear Regression
 - :test_tube: Lab 03
   - [![lab03.01](https://img.shields.io/static/v1?&label=lab03.01&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab03/03.01.live-ScikitFeaturesSelection.ipynb)
     [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab03/03.01.solutions-ScikitFeaturesSelection.ipynb)
     &nbsp;&nbsp; Scikit-Learn & Feature Selection
 - :test_tube: Lab 04
-  - [![lab04.01](https://img.shields.io/static/v1?&label=lab04.01&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab04/04.01.live-SciKitLearnClassification)
-    [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab04/04.01.solutions-SciKitLearnClassification)
+  - [![lab04.01](https://img.shields.io/static/v1?&label=lab04.01&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab04/04.01.live-SciKitLearnClassification.ipynb)
+    [![solutions][solutions-shield]](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab04/04.01.solutions-SciKitLearnClassification.ipynb)
     &nbsp;&nbsp; Classification
 - :test_tube: Lab 05
   - [![lab05.01](https://img.shields.io/static/v1?&label=lab05.01&message=Open%20in%20Colab&color=green&style=plastic&logo=googlecolab)](https://colab.research.google.com/github/marcocannici/polimi-ml-course/blob/master/lab05/05.01.live-SVMAndClassificationMetrics.ipynb)
